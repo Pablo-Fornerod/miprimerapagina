@@ -146,6 +146,10 @@ a {
     flex-wrap: wrap;
     justify-content: center;
 }
+img {
+    width: auto;
+    height: 200px;
+}
 
 main {
     display: flex;
