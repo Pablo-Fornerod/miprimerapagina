@@ -137,3 +137,9 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.greeting {
+    text-align: center;
+    color: #FFFEFE;
+    padding: 10px;
+}
