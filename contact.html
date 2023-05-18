@@ -25,8 +25,25 @@
         <div class="container">
             <h1>Contacto</h1>
             <p>¡Contáctanos para cualquier consulta o solicitud de información!</p>
-            <form>
-                <!-- Agrega aquí los campos del formulario -->
+            <form id="myForm">
+                <!-- Campo para nombre  -->
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" name="nombre">
+
+                <!-- Campo para email -->
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email">
+
+                <!-- Numero de telefono -->
+                <label for="numero">Numero de telefono</label>
+                <input type="text" name="numero" id="numero">
+
+                <!-- Mensaje -->
+                <label for="mensaje">Mensaje</label>
+                <textarea name="mensaje" id="mensaje"></textarea>
+
+                <!-- Boton de envio -->
+                <button type="submit">Submit</button>
             </form>
         </div>
         <script src="script.js"> </script>
