@@ -167,21 +167,21 @@ footer {
 }
 
 footer p {
-    color: X; /* Replace X with your desired color for the footer text */
-    font-size: X; /* Replace X with your desired font size for the footer text */
+    color: white; /* Replace X with your desired color for the footer text */
+    font-size: 11px; /* Replace X with your desired font size for the footer text */
 }
 
 footer button {
-    background-color: X; /* Replace X with your desired color for the button background */
-    color: X; /* Replace X with your desired color for the button text */
-    font-size: X; /* Replace X with your desired font size for the button text */
+    background-color: #9A8F97; /* Replace X with your desired color for the button background */
+    color: white; /* Replace X with your desired color for the button text */
+    font-size: 11px; /* Replace X with your desired font size for the button text */
     padding: 10px 20px;
     border: none;
     cursor: pointer;
 }
 
 footer button:hover {
-    background-color: X; /* Replace X with your desired color for the button background on hover */
+    background-color: #E9E3E6; /* Replace X with your desired color for the button background on hover */
 }
 
 /* CSS code */
