@@ -106,6 +106,9 @@ a {
     font-weight: bold;
     font-size: 20px;
     }
+    .services-container {
+        flex-direction: column;
+    }
 
     .nav-links.nav-links-responsive {
     position: absolute;
