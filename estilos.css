@@ -155,7 +155,32 @@ main {
     display: flex;
     justify-content: center;
 }
-footer { 
+/*footer { 
     display: flex;
     justify-content: center;
-}
+}*/
+/* CSS code */
+footer {
+    background-color: X; /* Replace X with your desired color for the footer background */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    color: X; /* Replace X with your desired color for the footer text */
+    font-size: X; /* Replace X with your desired font size for the footer text */
+  }
+  
+  footer button {
+    background-color: X; /* Replace X with your desired color for the button background */
+    color: X; /* Replace X with your desired color for the button text */
+    font-size: X; /* Replace X with your desired font size for the button text */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer button:hover {
+    background-color: X; /* Replace X with your desired color for the button background on hover */
+  }
+  
